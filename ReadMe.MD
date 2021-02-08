@@ -52,3 +52,12 @@ PS2>>> I forgot something very important, once you choose a gmail account to use
 it's necessary to enable this email for use as a server. Follow the instructions from [Google](https://support.google.com/mail/answer/7126229?p=BadCredentials&visit_id=637484054733636583-842672386&rd=2#cantsignin).
 
 
+
+To be more precise, you need to enable connections for less secure apps option
+
+
+and click the link about DisplayUnlockCaptcha.
+
+
+These 2 configurations should enable the email for sending and receiving messages.
+
