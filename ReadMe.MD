@@ -45,3 +45,10 @@ PS>>> Change the data for sending the POST request.
 
 If the project goes for production, it can optimize the load for sending emails using cluster.
 
+
+PS2>>> I forgot something very important, once you choose a gmail account to use as a server,
+
+
+it's necessary to enable this email for use as a server. Follow the instructions from [https://support.google.com/mail/answer/7126229?p=BadCredentials&visit_id=637484054733636583-842672386&rd=2#cantsignin](Google).
+
+
