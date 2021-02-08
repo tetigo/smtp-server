@@ -1,0 +1,19 @@
+GET http://localhost:3000/
+
+###
+
+GET http://localhost:3000/api
+
+###
+
+POST http://localhost:3000/ HTTP/1.1
+content-type: application/json
+
+{
+    "from": "xxxxx@xxxx.com",
+    "to": "yyyyyy@yyyyy.com",
+    "subject": "Test Email Subject",
+    "name": "ZZZZZZ",
+    "phone": "+55 11 000 000 000",
+    "message": "MESSAGE GOES HERE............"
+}
