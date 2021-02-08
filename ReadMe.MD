@@ -43,3 +43,5 @@ The REST Client plugin does the magick of sending the request inside VSCode.
 PS>>> Change the data for sending the POST request.
 
 
+If the project goes for production, it can optimize the load for sending emails using cluster.
+
