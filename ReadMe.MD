@@ -31,7 +31,7 @@ PORT=3000
 ```
 
 
-Run the command: ```node index.js```
+Run the command: ```npm start```
 
 
 Now go to the ```test.http``` file and click on the links. 

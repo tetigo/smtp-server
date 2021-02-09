@@ -4,7 +4,7 @@
   "description": "Simple SMTP Email Server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "set NODE_ENV=production && node index.js"
   },
   "keywords": [
     "SMTP",
